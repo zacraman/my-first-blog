@@ -3,7 +3,7 @@ color: #3F33FF;
 font-family: 'Lobster';
 }
 <a href="https://en.wikipedia.org/wiki/Django" class="external_link" id="link_to_wiki_page">
-body {
+body {background-color: #E6E6FA; 
 padding-left: 15px;
 }
 .page-header {
